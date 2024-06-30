@@ -1,0 +1,1 @@
+Esse projeto foi feito com HTML, CSS e JS. Tem como principal funcionalidade a alternância de imagens. Ele é um clone da página do iphone 13 pro na época do lançamento, e veio a partir de um curso de preparação Front ent.
